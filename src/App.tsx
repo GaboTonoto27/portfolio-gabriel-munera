@@ -1111,7 +1111,7 @@ const projects = [
     tags: ["HTML", "JavaScript"],
     img: "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=800&h=500&fit=crop&auto=format",
     status: "Completado",
-    demo: null,
+    demo: "https://sena-adso-exam.vercel.app",
     repo: "https://github.com/GaboTonoto27/sena-adso-exam",
   },
   {
