@@ -1,0 +1,10 @@
+{
+  "description": "Showcase your skills and projects with a modern, responsive portfolio designed for Gabriel Munera, highlighting frontend development and continuous learning.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
